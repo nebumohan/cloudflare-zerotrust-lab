@@ -134,22 +134,22 @@ Deployed `cloudflared` as a persistent Windows service, creating a secure outbou
 ## Screenshots
 
 ### Cloudflare One Overview
-![Overview](screenshots/screenshot-01-overview.png)
+![Overview](screenshots/screenshot-01-overview.png.png)
 
 ### DNS Policy — Block Malicious Domains
-![DNS Policy](screenshots/screenshot-02-dns-policy.png)
+![DNS Policy](screenshots/screenshot-02-dns-policy.png.png)
 
 ### DNS Policy Detail
-![DNS Policy Detail](screenshots/screenshot-03-dns-policy-detail.png)
+![DNS Policy Detail](screenshots/screenshot-03-dns-policy-detail.png.png)
 
 ### DNS Location — Nebu-SecLab
-![DNS Location](screenshots/screenshot-04-dns-location.png)
+![DNS Location](screenshots/screenshot-04-dns-location.png.png)
 
 ### Zero Trust Access Application
-![Access Application](screenshots/screenshot-05-access-application.png)
+![Access Application](screenshots/screenshot-05-access-application.png.png)
 
 ### Tunnel Status — Healthy
-![Tunnel Status](screenshots/screenshot-06-tunnel-status.png)
+![Tunnel Status](screenshots/screenshot-06-tunnel-status.png.png)
 
 ---
 
